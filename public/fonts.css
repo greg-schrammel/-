@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Circular';
+  font-style: normal;
+  font-weight: 800 900;
+  font-display: optional;
+  src: url(/fonts/CircularStd-Black.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Circular';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: optional;
+  src: url(/fonts/CircularStd-Bold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: optional;
+  src: url(/fonts/SpaceMono-Bold.ttf) format('truetype');
+}
